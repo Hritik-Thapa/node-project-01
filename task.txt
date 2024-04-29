@@ -1,0 +1,11 @@
+REST API for JSON
+
+GET /users -- return html
+GET /api/users -- diplay all the users
+GET /users/1 -- display user with ID 1
+
+POST/users -- add a new user
+
+PATCH users/id -- update user with givern id
+
+DELETE users/id -- delete user with givern id
